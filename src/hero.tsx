@@ -27,7 +27,7 @@ export default function Hero() {
         <div className="w-full md:w-1/2">
           <div className="relative mx-auto max-w-md overflow-hidden rounded-3xl bg-linear-to-br from-orange-200 via-orange-100 to-amber-50 p-2 shadow-xl">
             <img
-              src="download (1).jpg"
+              src="body.jpg"
               alt="Hero Image"
               className="h-full w-full rounded-[1.25rem] object-cover sm:h-72 md:h-80"
             />
